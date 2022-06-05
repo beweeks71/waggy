@@ -1,2 +1,2 @@
 # waggy
-HTML and CSS Projects
+Recipe project 
